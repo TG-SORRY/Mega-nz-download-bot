@@ -6,6 +6,8 @@
 
 
 
+###### A simple mega.nz download bot repo 🤩
+
 
 ### Environment Variable
 
