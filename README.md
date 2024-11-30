@@ -6,7 +6,15 @@
 
 
 
-###### A simple mega.nz download bot repo only support single files not support folder 
+##### A simple mega.nz download bot repo only support single files not support folder 
+
+
+### Bot Commands 
+```
+start - Check Bot Online 🔔
+
+```
+
 
 
 ### Environment Variable
