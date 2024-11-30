@@ -199,7 +199,7 @@ async def download_file(client, message):
                 await client.send_document(
                     chat_id=message.chat.id,
                     document=file_path,
-                    caption="Here's your downloaded file."
+                    caption="❤️ Created by @NT_BOT_CHANNEL"
                 )
                 os.remove(file_path)
 
