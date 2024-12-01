@@ -6,7 +6,7 @@ import time
 import asyncio
 import logging
 from pyrogram import Client, filters
-from mega import Mega
+from mega.py import Mega
 from dotenv import load_dotenv
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
